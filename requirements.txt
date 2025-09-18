@@ -1,0 +1,6 @@
+# requirements.txt
+git+https://github.com/openai/whisper.git
+sounddevice
+pynput
+numpy
+scipy
